@@ -1,4 +1,22 @@
-1. Design data structure
-2. Design process flow
-3. Develop API
-4. UI implementation
+1. Draft the flow
+2. Design data structure
+3. Design process flow
+4. Develop API
+5. UI implementation
+6. User Dashboard
+7. Admin Dashboard
+8. Reports
+
+Data Stucture:
+
+Customer
+    - Customer information
+
+Clients
+    - Clients information
+    - Clients data (house list)
+
+Application
+    - configurable theme - logo and page name
+    - list of customer inquiries
+    - add/update/delete house data
